@@ -1,7 +1,7 @@
 {
+  "location": null,
   "url": "https://github.com/cbarrete/tree-sitter-ledger",
   "semver": false,
   "parser_version": "22a1ab8195c1f6e808679f803007756fe7638c6f",
-  "location": null,
   "lang": "ledger"
 }
